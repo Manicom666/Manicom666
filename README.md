@@ -1,6 +1,6 @@
 ## Всем привет! 👋
 <div align="center">
-    <img src="https://j.gifs.com/G6ZxYQ.gif" alt="Botty" width="2700"/>
+    <img src="https://media1.tenor.com/m/KMDpKOwrwyAAAAAd/fortnite-rift-fortnite.gif" alt="Botty" width="2700"/>
 </div>
 👋 Привет! Я Денис или же Manicom
 
