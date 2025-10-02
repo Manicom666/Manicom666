@@ -1,7 +1,4 @@
-## Hi Everyone! 👋
-
-
-**Manicom666/Manicom666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Всем привет! 👋
 <div align="center">
     <img src="https://j.gifs.com/G6ZxYQ.gif" alt="Botty" width="2700"/>
 </div>
@@ -30,4 +27,4 @@
 
 
 📫 **Свяжись со мной**, если хочешь пообщаться про embedded, 3D-дизайн или просто похвастаться своим последним проектом!
--->
+--> @Manicom666
