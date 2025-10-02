@@ -1,4 +1,4 @@
-## Всем привет! 👋
+## Приветсвую дорогие подписчики и зрители! 👋
 <div align="center">
     <img src="https://media1.tenor.com/m/KMDpKOwrwyAAAAAd/fortnite-rift-fortnite.gif" alt="Botty" width="2700"/>
 </div>
